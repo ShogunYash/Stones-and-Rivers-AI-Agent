@@ -1,5 +1,8 @@
 # Student Agent: High-Performance C++ AI for Rivers & Stones
 
+COL333 Course Assignment
+Prof. Mausam 
+
 ## Project Overview
 
 This repository hosts a competitive AI agent designed for the strategy game "Rivers & Stones." The agent is engineered in **C++17** to maximize computational efficiency and interacts with the game's Python engine via **pybind11**.
